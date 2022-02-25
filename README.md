@@ -1,2 +1,2 @@
 # repositoriprova
-El meu primer repositori
+El meu primer repositori per fi ho he aconseguit crec
